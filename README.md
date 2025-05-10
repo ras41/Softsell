@@ -2,13 +2,13 @@
 
 A stunning, responsive, single-page marketing website for **SoftSell**, a fictional startup that helps users resell their unused software licenses. Designed with modern UI principles, smooth animations, dark/light mode, and an interactive user experience using React + Vite, TailwindCSS, and Framer Motion.
 
-![SoftSell Banner](./public/preview.jpg)
+![SoftSell Banner](./public/preview.png)
 
 ---
 
 ## 📦 Live Demo
 
-🔗 [View Live Site](https://your-vercel-link.vercel.app)
+🔗 [View Live Site](https://softsell-omega-puce.vercel.app/)
 
 ---
 
